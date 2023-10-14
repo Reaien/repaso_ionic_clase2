@@ -1,16 +1,15 @@
-
-ion-content{
-  --ion-background-color: url(/assets/img/fondo.jpg) no-repeat center center / cover;
-  
+ion-content {
+  --ion-background-color: url(/assets/img/fondo.jpg) no-repeat center center /
+    cover;
 }
 
-ion-card{
+ion-card {
   --ion-background-color: rgb(250, 247, 247);
   font-size: 30px;
 }
 
 .glass-content {
-/* From https://css.glass */
+  /* From https://css.glass */
   background: rgba(44, 44, 44, 0.548);
   border-radius: 16px;
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.432);
@@ -20,7 +19,7 @@ ion-card{
   min-height: 100vh;
 }
 
-.titulo{
+.titulo {
   font-size: 30px;
   color: wheat;
   font-weight: bolder;

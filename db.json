@@ -1,0 +1,25 @@
+{
+  "zoologicos": [
+    {
+      "id": 1,
+      "nombre": "BuinZoo",
+      "calificacion": "Bueno",
+      "comuna": "Buin",
+      "pais": "Chile"
+    },
+    {
+      "id": 2,
+      "nombre": "Zoologico de santiago",
+      "calificacion": "Bueno",
+      "comuna": "Buin",
+      "pais": "Chile"
+    },
+    {
+      "id": 3,
+      "nombre": "Zoologico Concon",
+      "calificacion": "Normal",
+      "comuna": "Concon",
+      "pais": "Chile"
+    }
+  ]
+}

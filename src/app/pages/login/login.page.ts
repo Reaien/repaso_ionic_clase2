@@ -35,6 +35,9 @@ export class LoginPage implements OnInit {
   ngOnInit() {}
 
   async ingresar() {
+
+    localStorage.setItem('ingresado', 'true');
+
     let navigationExtras: NavigationExtras = {
       state: {
         user: this.user,
